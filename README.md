@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zywangdylan.zywangdylan)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hugo-coder-hjh&show_icons=true&count_private=true" alt="Hugo-coder-hjh" />
+<img src="https://github-readme-stats.vercel.app/api?username=zywangdylan&show_icons=true&count_private=true" alt="zywangdylan" />
