@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👐 Reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-JiahaoHe-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/jiahaohe1999/?locale=en_US](https://www.linkedin.com/in/zhenyuan-wang-5782a2157/))
+[![Gmail Badge](https://img.shields.io/badge/-zxw@seas.upenn.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:zxw@seas.upenn.edu)
+
 #### ⚡Technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
