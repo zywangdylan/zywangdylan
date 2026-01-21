@@ -22,6 +22,7 @@ I'm Zhenyuan Wang, a passionate software engineer with a strong background in co
 
 #### ⚡Technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
