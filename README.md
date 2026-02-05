@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Zhenyuan Wang, a passionate software engineer with a strong background in computer science and mathematics. I enjoy tackling challenging problems and building innovative solutions.
 
 👐 Reach out to me: [![Linkedin Badge](https://img.shields.io/badge/-zywangdylan-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/jiahaohe1999/?locale=en_US](https://www.linkedin.com/in/zhenyuan-wang-5782a2157/))
-[![Gmail Badge](https://img.shields.io/badge/-zxw@seas.upenn.edu-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:zywangdylan@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-zywangdylan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:zywangdylan@gmail.com)
 
 #### ⚡Technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
